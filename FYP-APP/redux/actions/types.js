@@ -1,0 +1,15 @@
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL='REGISTER_FAIL';
+export const REGISTER_ATTEMPT='REGISTER_ATTEMPT';
+
+export const USER_LOADED='USER_LOADED';
+export const AUTH_ERROR= 'AUTH_ERROR';
+
+export const LOGIN_SUCCESS= 'LOGIN_SUCCESS';
+export const LOGIN_FAIL= 'LOGIN_FAIL';
+export const LOGIN_ATTEMPT= 'LOGIN_ATTEMPT';
+
+export const FETCH_FAIL= 'FETCH_FAIL';
+export const FETCH_SUCCESS= 'FETCH_SUCCESS';
+export const FETCH_ATTEMPT= 'FETCH_ATTEMPT';
+
