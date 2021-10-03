@@ -1,0 +1,10 @@
+.ant-btn-primary{
+    background-color: black;
+    border-color: white;
+}
+.ant-pagination-item-active{
+    border-color: black;
+}
+.ant-pagination-item-active::hover{
+    border-color: white;
+}
